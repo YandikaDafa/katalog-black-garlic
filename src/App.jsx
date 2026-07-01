@@ -40,7 +40,7 @@ function App() {
       </nav>
 
       <header className="hero">
-        <h1>Katalog Black Garlic</h1>
+        <h1>Produk Black Garlic</h1>
         <p>Pilih produk kesehatan terbaik untuk keluarga Anda.</p>
       </header>
 
